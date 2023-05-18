@@ -7,8 +7,13 @@
 ### I am a passionate self-taught programmer whose main field of interest is Deep-Learning, I am trying to get better at various concepts in NLP
 
 ### 📫 Feel free to reach out to me :
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-                                                                                                               
+<p align=”center”>
+
+<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
+</p>
+
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
