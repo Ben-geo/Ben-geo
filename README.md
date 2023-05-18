@@ -8,7 +8,7 @@
 
 ### 📫 Feel free to reach out to me :
 
- [![Linkedin Badge](https://img.shields.io/badge/-@AbhishekRanjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-ranjan-2002/)](https://www.linkedin.com/in/abhishek-ranjan-2002/)
+ [![Linkedin Badge](https://img.shields.io/badge/-@bengeoabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bengeoabraham/)](https://www.linkedin.com/in/bengeoabraham/)
 
 <!--
 - 🔭 I’m currently working on ...
