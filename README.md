@@ -8,10 +8,7 @@
 
 ### 📫 Feel free to reach out to me :
 
- [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/USERNAME"
+ [![Linkedin Badge](https://img.shields.io/badge/-@AbhishekRanjan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhishek-ranjan-2002/)](https://www.linkedin.com/in/abhishek-ranjan-2002/)
 
 <!--
 - 🔭 I’m currently working on ...
