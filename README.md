@@ -9,7 +9,7 @@
 ### 📫 Feel free to reach out to me :
 <p align=”center”>
 
-![h](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![h](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
  
 </p>
 
