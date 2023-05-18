@@ -7,12 +7,11 @@
 ### I am a passionate self-taught programmer whose main field of interest is Deep-Learning, I am trying to get better at various concepts in NLP
 
 ### 📫 Feel free to reach out to me :
-<p align=”center”>
 
-![h](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)
- 
-</p>
-
+ [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "//linkedin.com/in/USERNAME"
 
 <!--
 - 🔭 I’m currently working on ...
