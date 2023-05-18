@@ -1,12 +1,12 @@
 ### Hey there 👋
  
-I am Ben Geo Abraham
+### I am Ben Geo Abraham
 
-I am a pre-final year student at Vellore Institute of Technology, pursuing  Integrated MSc Computational Statistics and Data Analytics
+### I am a pre-final year student at Vellore Institute of Technology, pursuing  Integrated MSc Computational Statistics and Data Analytics
 
-I am a passionate self-taught programmer whose main field of interest is Deep-Learning, I am trying to get better at various concepts in NLP
+### I am a passionate self-taught programmer whose main field of interest is Deep-Learning, I am trying to get better at various concepts in NLP
 
-📫 Feel free to reach out to me :
+### 📫 Feel free to reach out to me :
 
 <!--
 - 🔭 I’m currently working on ...
