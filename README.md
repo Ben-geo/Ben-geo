@@ -3,7 +3,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/benana)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-geo)](https://github.com/Ben-geo/github-readme-stats)
+[![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-geo&show icons=true&theme=radical )](https://github.com/Ben-geo/github-readme-stats)
 
 ### 📫 Feel free to reach out to me :
 
