@@ -7,7 +7,7 @@
 
 
 ### Languages and Tools I have worked with:  
- [![Linkedin Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]
+![Linkedin Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 
 ### 📫 Feel free to reach out to me :
 
