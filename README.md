@@ -7,12 +7,28 @@
 
 
 ### Languages and Tools I have worked with:  
-#### |  Data Science and Deep Learning
+
+Programming Languages : 
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+, C, C++, C#, Java, SQL,
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+Web Development: React, NodeJS, HTML, CSS
+Cloud Platform: Firebase, Azure, AWS, EC2
+Machine Learning: 
+![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+LSTM, CNN, RNN, NLP, TensorFlow
+Data Engineering: ETL, Spark, MongoDB
+DevOps & Containerization: Docker, Kubernetes
+
+: Docker, Kubernetes
+#### Data Science and Deep Learning :
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![ScikitLearn  Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas  Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 
+#### Full Stack 
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### 📫 Feel free to reach out to me :
