@@ -7,7 +7,7 @@
 
 
 ### Languages and Tools I have worked with:  
-|  ####   Data Science and Deep Learning
+#### |  Data Science and Deep Learning
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![ScikitLearn  Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
