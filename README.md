@@ -3,7 +3,7 @@
 ![Leetcode Stats](https://leetcard.jacoblin.cool/benana)
 
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-geo&show_icons=true&theme=cobalt)
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-geo&show_icons=true&theme=merko)
 
 ### 📫 Feel free to reach out to me :
 
