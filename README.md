@@ -1,6 +1,4 @@
-### Hey there 👋
- 
-### I am Ben Geo Abraham
+# Hey there 👋,  I am Ben Geo Abraham
 
 ### I am a pre-final year student at Vellore Institute of Technology, pursuing  Integrated MSc Computational Statistics and Data Analytics
 
