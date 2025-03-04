@@ -1,7 +1,8 @@
 # Hi 👋,  I'm Ben Geo Abraham
 
-![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-geo&show_icons=true&theme=radical)
 ![Leetcode Stats](https://leetcard.jacoblin.cool/benana?ext=contest)
+
+![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ben-geo&show_icons=true&theme=radical)
 
 
 
