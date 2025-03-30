@@ -1,5 +1,4 @@
 ## Ben Geo Abraham
-#
 ![Leetcode Stats](https://leetcard.jacoblin.cool/benana)
 
 #
