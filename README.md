@@ -1,5 +1,5 @@
-# Hi 👋,  I'm Ben Geo Abraham
-
+## Ben Geo Abraham
+#
 ![Leetcode Stats](https://leetcard.jacoblin.cool/benana)
 
 #
