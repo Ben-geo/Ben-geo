@@ -4,7 +4,7 @@
 * [mesa-frames](https://github.com/projectmesa/mesa-frames)
   *  an open source repo designed for complex simulations with thousands of agents
 #
-![Leetcode Stats](https://leetcard.jacoblin.cool/benana?ext=contest)
+![Leetcode Stats](https://leetcard.jacoblin.cool/benana?)
 ### Languages and Tools I have worked with:  
 
 Programming Languages : 
