@@ -14,8 +14,12 @@ My work spans **reinforcement learning**, **LLM-based tools**, and **large-scale
 I enjoy projects that combine creative problem-solving with disciplined engineering — especially those that transform complex ideas into real, measurable impact.
 
 ---
+##  **Open Source**
+- **Project Mesa**
+    https://github.com/projectmesa
+---
 
-## 🚀 **Highlighted Work**
+##  **Highlighted Work**
 
 ### **Google Summer of Code 2025 — Mesa**
 **Open Source Collaborator (Polars + Async Data Pipeline)**  
@@ -31,12 +35,6 @@ I enjoy projects that combine creative problem-solving with disciplined engineer
 ### **Mesa-Frames (Open Source) — Contributor & Admin**
 - Implemented async logging, reproducibility workflows, and scalable data collection  
 - Optimized the simulation backend for large distributed runs  
-
----
-
-## 🔗 **Open Source**
-- **Mesa-Frames** — High-performance data collector for large agent-based simulations  
-  👉 https://github.com/projectmesa/mesa-frames  
 
 ---
 
