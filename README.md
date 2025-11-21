@@ -1,33 +1,46 @@
-## Ben Geo Abraham
+# **Ben Geo Abraham**
+### *Applied Machine Learning Engineer*  
+🌐 **Website:** [https://bengeo.vercel.app  ](https://ben-geo.github.io/)
+🔗 **LinkedIn:** https://www.linkedin.com/in/bengeoabraham/  
+💻 **GitHub:** https://github.com/Ben-geo  
+📧 **Email:** bengeoabraham@gmail.com  
 
-### Open Source Contributions :
-* [mesa-frames](https://github.com/projectmesa/mesa-frames)
-  *  an open source repo designed for complex simulations with thousands of agents
+---
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/benana?)
-### Languages and Tools I have worked with:  
+## **About Me**
+I’m an Applied Machine Learning Engineer focused on building **scalable, high-performance ML systems and data platforms**.  
+My work spans **reinforcement learning**, **LLM-based tools**, and **large-scale data engineering**, with a focus on **research-driven engineering**, system optimization, and production reliability.
 
-Programming Languages : 
+I enjoy projects that combine creative problem-solving with disciplined engineering — especially those that transform complex ideas into real, measurable impact.
 
-![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+---
 
-Deep Learning and Data Science: 
+## 🚀 **Highlighted Work**
 
-![Tensorflow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![ScikitLearn  Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas  Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+### **Google Summer of Code 2025 — Mesa**
+**Open Source Collaborator (Polars + Async Data Pipeline)**  
+- Engineered a Polars-backed async data collector that scales to **1M+ agents**  
+- Achieved **2–3× faster runtimes** for agent-based simulations  
+- Transitioned backend from Pandas → Polars and modularized core APIs  
 
-Web Development:
+### **Anarix — Applied ML Engineer**
+- Designed a production-scale **AI-Bidder** system (custom prediction framework pivoted from RL)  
+- Built an **LLM BI tool** using RAG + RLHF  
+- Developed real-time inference flows and scalable ETL pipelines  
 
-![React  Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![NodeJs  Badge](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![HTML  Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS  Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### **Mesa-Frames (Open Source) — Contributor & Admin**
+- Implemented async logging, reproducibility workflows, and scalable data collection  
+- Optimized the simulation backend for large distributed runs  
 
-### 📌 Feel free to reach out to me :
+---
 
- [![Linkedin Badge](https://img.shields.io/badge/-@bengeoabraham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bengeoabraham/)](https://www.linkedin.com/in/bengeoabraham/)
-#
+## 🔗 **Open Source**
+- **Mesa-Frames** — High-performance data collector for large agent-based simulations  
+  👉 https://github.com/projectmesa/mesa-frames  
+
+---
+
+## 📊 **LeetCode**
+![LeetCode Stats](https://leetcard.jacoblin.cool/benana?theme=light&font=Source%20Code%20Pro)
+
+---
